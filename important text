@@ -1,0 +1,8 @@
+To push a file on git hub 
+
+git status
+git add (filename)_
+git commit -m "comment"
+git push origin master
+
+//so here you have pushed your file to git hub
